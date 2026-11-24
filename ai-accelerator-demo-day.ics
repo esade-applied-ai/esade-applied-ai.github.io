@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Applied AI Lab//External event listing//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:demo-day-20261203@esade-applied-ai-lab
+DTSTAMP:20261123T110000Z
+DTSTART:20261203T133000Z
+DTEND:20261203T180000Z
+SUMMARY:AI Accelerator Demo Day
+LOCATION:Pier 07\, Via Laietana 26\, Barcelona
+DESCRIPTION:External event. Eight project pitches and networking.
+URL:https://airacat.eu/aiaccelerator/programa/
+END:VEVENT
+END:VCALENDAR
